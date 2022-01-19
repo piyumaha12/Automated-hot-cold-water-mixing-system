@@ -49,4 +49,13 @@ It this project i used various sensors, keypad, display, valves, arduino and oth
 6. Assembling all component and testing.
 
 ## Ordering Components:
+The components required for this project are ordered from Surat and from website https://www.electronicscomp.com/
+The extensive list of components required for this project are given in []
 
+## Programming
+
+The Programming language in C++ and C# for arduino. The prgramms are created in batches, so i can test individual components and then i combined those small programms into large and final one. 
+- Program for Sensors [DS18B20.ino](https://github.com/piyumaha12/Automated-hot-cold-water-mixing-system/blob/e4a5798c5aa17a2d253fdcf8342bfb3c042deca8/DS18B20.ino)
+- Program for I2C display [I2C_display.ino](https://github.com/piyumaha12/Automated-hot-cold-water-mixing-system/blob/e4a5798c5aa17a2d253fdcf8342bfb3c042deca8/I2C_display.ino)
+- Program for Keypad [keypad.ino](https://github.com/piyumaha12/Automated-hot-cold-water-mixing-system/blob/e4a5798c5aa17a2d253fdcf8342bfb3c042deca8/keypad.ino)
+- Final Complete program [actual_thermo.ino](https://github.com/piyumaha12/Automated-hot-cold-water-mixing-system/blob/e4a5798c5aa17a2d253fdcf8342bfb3c042deca8/actual_thermo.ino)
