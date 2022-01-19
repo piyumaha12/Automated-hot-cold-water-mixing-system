@@ -103,4 +103,15 @@ After etching process the next part is soldering all small components on PCB. Af
 **TOP Side**
 ![IMG_20190215_221339](https://user-images.githubusercontent.com/71897685/150067686-e8a0dcb3-53eb-4c88-8a6f-6eef75c90187.jpg)
 
+## NOW FINAL PROCESS ASSEMBLE ALL PARTS:
+
+Now the PCB is ready and also program. soo we can connect all things and test it.
+
+Final look: This photo is taken in DIPEX-19 Competition. 
+>![IMG_20190302_164206](https://user-images.githubusercontent.com/71897685/150067994-a2339279-f32c-4356-b672-1b2943bce071.jpg)
+
+
+## FIRST PRICE IN DIPEX-19
+
+![IMG_20190305_220928](https://user-images.githubusercontent.com/71897685/150068220-812922c0-62ed-47cf-8615-6a03f16ef54b.jpg)
 
