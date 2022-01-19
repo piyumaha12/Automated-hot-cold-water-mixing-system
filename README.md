@@ -114,4 +114,4 @@ Final look: This photo is taken in DIPEX-19 Competition.
 ## FIRST PRICE IN DIPEX-19
 
 ![IMG_20190305_220928](https://user-images.githubusercontent.com/71897685/150068220-812922c0-62ed-47cf-8615-6a03f16ef54b.jpg)
-
+![WhatsApp Image 2022-01-19 at 10 44 18 AM](https://user-images.githubusercontent.com/71897685/150075409-15537c39-0a1f-44c6-bb7d-21227f46e29a.jpeg)
