@@ -22,4 +22,17 @@ It this project i used various sensors, keypad, display, valves, arduino and oth
 9. LED lights
 10. Polarized header pin.
 
+<div class = "row" >
+  <div class = "column">
+    <img width = '20%' src = https://user-images.githubusercontent.com/71897685/150060534-39bc7213-354f-4d23-a309-adaa182d1dce.jpg />
+    <img width = '20%' src = https://user-images.githubusercontent.com/71897685/150060542-ea6a34ac-ccbc-41ac-8904-689271a655b7.jpg />
+    <img width = '20%' src = https://user-images.githubusercontent.com/71897685/150060545-810a9deb-b1f7-4454-9226-e63ef6dcc42c.jpeg />
+    <img width = '20%' src = https://user-images.githubusercontent.com/71897685/150060550-def1eb6b-8ddf-49df-848a-c633910b4d4b.jpg />
+  </div>
+  <div class = 'column'>
+    <img width = '20%' src =https://user-images.githubusercontent.com/71897685/150060552-f7db528e-b274-4d87-ba5f-819542236cbc.png />
+    <img width = '20%' src = https://user-images.githubusercontent.com/71897685/150060555-9b78771c-b25d-4483-b9d5-3b905c49c910.jpg />
+    <img width = '20%' src = https://user-images.githubusercontent.com/71897685/150060558-b0050d12-6cf7-49fc-9179-dcebd2293592.jpg />
+  </div>
+ </div>
 
