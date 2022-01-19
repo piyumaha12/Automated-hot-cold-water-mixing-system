@@ -37,3 +37,16 @@ It this project i used various sensors, keypad, display, valves, arduino and oth
   </div>
  </div>
 
+> The images are in order as list provided.
+
+ 
+### This project can be divided into sub parts like:
+1. Ordering components.
+2. Programming
+3. PCB Designning and Etching
+4. Soldering all elements.
+5. Creating pipeline network with solenoid valve.
+6. Assembling all component and testing.
+
+## Ordering Components:
+
