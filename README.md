@@ -93,6 +93,14 @@ For Etching purpose, I am using FeCl2 (ferric chloride). after etching PCB plate
 > ![IMG_20190214_222210](https://user-images.githubusercontent.com/71897685/150067475-ee9f2a1c-2ff4-4cc1-8ffc-0ac1582ab34e.jpg)
 
 
+## Soldering Components:
+After etching process the next part is soldering all small components on PCB. After soldering PCB looks like this
 
+**Bottom Side**
+>![IMG_20190215_221347](https://user-images.githubusercontent.com/71897685/150067670-32be80c2-5391-4714-ac9f-74b6571daa7d.jpg)
+
+
+**TOP Side**
+![IMG_20190215_221339](https://user-images.githubusercontent.com/71897685/150067686-e8a0dcb3-53eb-4c88-8a6f-6eef75c90187.jpg)
 
 
